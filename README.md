@@ -13,6 +13,7 @@
 Перехід на сторінку за допомогою натисканням на тему:
 ![](Screens/Select%20Theme.png)
 ![](Screens/Selected%20Theme.png)
+
 Перехід за допомогою натисканням на кнопку:
 ![](Screens/Switch%20Screen.png)
 ![](Screens/Switched%20Screen.png)
